@@ -6,3 +6,4 @@ seaborn
 scipy
 tensorflow
 scikit-learn
+streamlit
