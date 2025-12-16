@@ -1,0 +1,13 @@
+# ignore .idea
+.idea
+
+# ignore .vscode
+.vscode
+
+# ignore .venv
+.venv
+.env
+
+# ignore pycache
+__pycache__
+
